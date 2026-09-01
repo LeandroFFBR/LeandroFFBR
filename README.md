@@ -4,7 +4,7 @@
 --------
 
 👨‍💻 Olá! Meu nome é Leandro Felix Felicio!<br>
-💬Eu estou cursando bacharelado em Engenharia de Software na faculdade Estácio.<br>
+💬Bacharelado em Engenharia de Software (Em andamento).<br>
 🎓Faculdade Estácio<br>
 📟[Linkedin](https://www.linkedin.com/in/leandro-felix-felicio/)
 ----
@@ -16,7 +16,7 @@
 curso
 ----
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?LeandroFFBR=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **LeandroFFBR/LeandroFFBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
