@@ -66,11 +66,14 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Troféus de Conquistas do GitHub (Servidor de alta estabilidade) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=LeandroFFBR&theme=darkhub&no-frame=true&column=4" alt="Troféus no GitHub" />
+  <!-- Card de Sequência (Servidor 100% Estável) -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=LeandroFFBR&theme=dark" alt="Sequência no GitHub" />
 
   <br /><br />
 
-  <!-- Card de Sequência (Funcionando) -->
-  <img height="165em" src="https://streak-stats.demolab.com/?user=LeandroFFBR&theme=dark" alt="Sequência no GitHub" />
+  <!-- Badges de Métricas do Perfil (Infraestrutura do Shields.io - Nunca caem) -->
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/LeandroFFBR?style=for-the-badge&logo=github&color=161b22&labelColor=0d1117" alt="Seguidores" />
+    <img src="https://img.shields.io/github/stars/LeandroFFBR?style=for-the-badge&logo=github&color=161b22&labelColor=0d1117" alt="Estrelas" />
+  </p>
 </div>
