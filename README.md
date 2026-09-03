@@ -65,7 +65,12 @@
 
 ## 📊 Estatísticas do GitHub
 
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeandroFFBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroFFBR&layout=compact&theme=dark"/>
+  <!-- Card de Estatísticas Principais (Otimizado) -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeandroFFBR&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+  
+  <!-- Card de Sequência de Contribuições (Streak Stats - Mais estável) -->
+  <img height="160em" src="https://streak-stats.demolab.com/?user=LeandroFFBR&theme=dark" alt="Sequência no GitHub" />
 </div>
