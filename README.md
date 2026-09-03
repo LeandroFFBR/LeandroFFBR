@@ -3,10 +3,10 @@
   <p><b>Estudante de Engenharia de Software | Desenvolvedor Web</b></p>
 
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
   </a>
   <a href="mailto:leandrofelixf@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+    <img src="https://images.icon-icons.com/1488/PNG/512/5382-outlook_102516.png" alt="Email" width="30" />
   </a>
 </div>
 
