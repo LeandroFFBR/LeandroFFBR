@@ -46,7 +46,7 @@
 | Plataforma / Instituição | Foco / Curso | Status |
 | :--- | :--- | :---: |
 | <img src="https://bolsa-click.fly.storage.tigris.dev/institutions/1780778296142-r9mn6z.png" width="30px" /> | **Bacharelado em Engenharia de Software** | Em Andamento |
-| <img src="https://img.shields.io/badge/DIO-000000?style=for-the-badge&logo=digitalinnovationone&logoColor=white" /> | **Bootcamps & Formações Fullstack** | Em Andamento |
+| <img src="https://hermes.digitalinnovation.one/assets/diome/logo.png" width="30px"/> | **Bootcamps & Formações Fullstack** | Em Andamento |
 | <img src="https://img.shields.io/badge/Curso_em_Vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> | **Lógica de Programação, HTML/CSS e JavaScript** | Concluído |
 
 ---
