@@ -66,11 +66,11 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Card de Sequência (Já funcionando) -->
-  <img height="165em" src="https://streak-stats.demolab.com/?user=LeandroFFBR&theme=dark" alt="Sequência no GitHub" />
+  <!-- Troféus de Conquistas do GitHub (Servidor de alta estabilidade) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=LeandroFFBR&theme=darkhub&no-frame=true&column=4" alt="Troféus no GitHub" />
 
   <br /><br />
 
-  <!-- Gráfico de Atividades diárias (Livre de limite de requisições) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeandroFFBR&theme=github-dark" alt="Gráfico de Atividades" />
+  <!-- Card de Sequência (Funcionando) -->
+  <img height="165em" src="https://streak-stats.demolab.com/?user=LeandroFFBR&theme=dark" alt="Sequência no GitHub" />
 </div>
