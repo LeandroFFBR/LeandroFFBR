@@ -66,9 +66,11 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Card de Estatísticas Principais (Otimizado) -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeandroFFBR&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
-  
-  <!-- Card de Sequência de Contribuições (Streak Stats - Mais estável) -->
-  <img height="160em" src="https://streak-stats.demolab.com/?user=LeandroFFBR&theme=dark" alt="Sequência no GitHub" />
+  <!-- Card de Sequência (Já funcionando) -->
+  <img height="165em" src="https://streak-stats.demolab.com/?user=LeandroFFBR&theme=dark" alt="Sequência no GitHub" />
+
+  <br /><br />
+
+  <!-- Gráfico de Atividades diárias (Livre de limite de requisições) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeandroFFBR&theme=github-dark" alt="Gráfico de Atividades" />
 </div>
