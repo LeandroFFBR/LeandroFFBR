@@ -56,9 +56,10 @@
 
 ## 📜 Certificados & Bootcamps
 
-* 🏆 **Bootcamp Git&GitHub** - *DIO* — [Certificado](https://hermes.dio.me/certificates/ZZU0XCVJ.pdf)
-* 🏆 **Curso de JavaScript / HTML5 / CSS3** - *Curso em Vídeo* — [Ver Certificado](#)
-* 🏆 **Formação Backend / Banco de Dados** - *DIO* — [Ver Certificado](#)
+* 🏆 **Bootcamp Git&GitHub / Introdução aos Conceitos de Git e Github** - *DIO* — [Certificado](https://hermes.dio.me/certificates/ZZU0XCVJ.pdf)
+* 🏆 **Curso Python3** - *Curso em Vídeo* — [Certificado](https://www.cursoemvideo.com/certificates/certificado/?course_id=26540&cert-nonce=b5dec8bbf7)
+* 🏆 **Introdução a IAs - Excel com IA e Claude** - *DIO* — [Certificado](https://hermes.dio.me/certificates/PYYKJFIC.pdf)
+* 🏆 **Lógica de Programação / Algoritimos** - *DIO* — [Certificado](https://www.cursoemvideo.com/certificates/certificado/?course_id=25239&cert-nonce=21632ec0dd)
 
 ---
 
