@@ -6,7 +6,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
   </a>
   <a href="mailto:leandrofelixf@outlook.com">
-    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Microsoft_Office_Outlook_%282018%E2%80%932024%29.svg/960px-Microsoft_Office_Outlook_%282018%E2%80%932024%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="Email" width="30" />
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Microsoft_Office_Outlook_%282018%E2%80%932024%29.svg/960px-Microsoft_Office_Outlook_%282018%E2%80%932024%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="Email" width="30px" />
   </a>
 </div>
 
@@ -45,7 +45,7 @@
 
 | Plataforma / Instituição | Foco / Curso | Status |
 | :--- | :--- | :---: |
-| <img src="https://img.shields.io/badge/Estácio-003366?style=for-the-badge&logo=education&logoColor=white" /> | **Bacharelado em Engenharia de Software** | Em Andamento |
+| <img src="https://bolsa-click.fly.storage.tigris.dev/institutions/1780778296142-r9mn6z.png" width="30px" /> | **Bacharelado em Engenharia de Software** | Em Andamento |
 | <img src="https://img.shields.io/badge/DIO-000000?style=for-the-badge&logo=digitalinnovationone&logoColor=white" /> | **Bootcamps & Formações Fullstack** | Em Andamento |
 | <img src="https://img.shields.io/badge/Curso_em_Vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> | **Lógica de Programação, HTML/CSS e JavaScript** | Concluído |
 
