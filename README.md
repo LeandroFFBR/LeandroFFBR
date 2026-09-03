@@ -56,7 +56,7 @@
 
 ## 📜 Certificados & Bootcamps
 
-* 🏆 **Bootcamp Git&GitHub** - *DIO* — [Ver Certificado](#https://hermes.dio.me/certificates/ZZU0XCVJ.pdf)
+* 🏆 **Bootcamp Git&GitHub** - *DIO* — [Ver Certificado](href="https://hermes.dio.me/certificates/ZZU0XCVJ.pdf")
 * 🏆 **Curso de JavaScript / HTML5 / CSS3** - *Curso em Vídeo* — [Ver Certificado](#)
 * 🏆 **Formação Backend / Banco de Dados** - *DIO* — [Ver Certificado](#)
 
