@@ -47,7 +47,7 @@
 | :--- | :--- | :---: |
 | <img src="https://bolsa-click.fly.storage.tigris.dev/institutions/1780778296142-r9mn6z.png" width="30px" /> | **Bacharelado em Engenharia de Software** | Em Andamento |
 | <img src="https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png" width="60px"/> | **Bootcamps & Formações Fullstack** | Em Andamento |
-| <img src="https://img.shields.io/badge/Curso_em_Vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> | **Lógica de Programação, HTML/CSS e JavaScript** | Concluído |
+| <img src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" width="60px"/> | **Lógica de Programação, HTML/CSS e JavaScript** | Concluído |
 
 ---
 
