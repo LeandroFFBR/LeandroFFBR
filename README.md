@@ -6,7 +6,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
   </a>
   <a href="mailto:leandrofelixf@outlook.com">
-    <img src="https://images.icon-icons.com/1488/PNG/512/5382-outlook_102516.png" alt="Email" width="30" />
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Microsoft_Office_Outlook_%282018%E2%80%932024%29.svg/960px-Microsoft_Office_Outlook_%282018%E2%80%932024%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="Email" width="30" />
   </a>
 </div>
 
