@@ -46,7 +46,7 @@
 | Plataforma / Instituição | Foco / Curso | Status |
 | :--- | :--- | :---: |
 | <img src="https://bolsa-click.fly.storage.tigris.dev/institutions/1780778296142-r9mn6z.png" width="30px" /> | **Bacharelado em Engenharia de Software** | Em Andamento |
-| <img src="https://media.licdn.com/dms/image/v2/D4D0BAQH1TY3FZloIyA/company-logo_200_200/B4DZxMvm8KJwAM-/0/1770814075164/dio_makethechange_logo?e=2147483647&v=beta&t=tJas9mt5R1TEpQFr2UXMP4E32lFrAN-Brlhtl7pwfcM" width="30px" text="DIO.me GLOBAL"/> | **Bootcamps & Formações Fullstack** | Em Andamento |
+| <img src="https://media.licdn.com/dms/image/v2/D4D0BAQH1TY3FZloIyA/company-logo_200_200/B4DZxMvm8KJwAM-/0/1770814075164/dio_makethechange_logo?e=2147483647&v=beta&t=tJas9mt5R1TEpQFr2UXMP4E32lFrAN-Brlhtl7pwfcM" width="30px"/> ###DIO GLOBAL | **Bootcamps & Formações Fullstack** | Em Andamento |
 | <img src="https://yt3.googleusercontent.com/ytc/AIdro_m-8zZRJBWMwnaHcJgQv2IRr0dLcqCv1yKcQHgSEZ26jHw=s900-c-k-c0x00ffffff-no-rj" width="30px"/> | **Lógica de Programação, HTML/CSS e JavaScript** | Concluído |
 
 ---
