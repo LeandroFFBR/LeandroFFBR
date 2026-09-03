@@ -2,7 +2,7 @@
   <h1>Olá, eu sou o Leandro Felix! 👋</h1>
   <p><b>Estudante de Engenharia de Software | Desenvolvedor Web</b></p>
 
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/leandro-felix-felicio/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
   </a>
   <a href="mailto:leandrofelixf@outlook.com">
