@@ -65,8 +65,6 @@
 
 ## 📊 Estatísticas do GitHub
 
-## 📊 Estatísticas do GitHub
-
 <div align="center">
   <!-- Card de Estatísticas Principais (Otimizado) -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeandroFFBR&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
