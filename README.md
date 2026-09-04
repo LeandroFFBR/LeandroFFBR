@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Olá, eu sou o Leandro Felix! 👋</h1>
   <p><b>Estudante de Engenharia de Software</b></p>
-  <img src="ezgif.com-resize.gif" alt="Texto alternativo descrevendo o GIF" width="50%">
+  <img src="ezgif.com-resize.gif" alt="Texto alternativo descrevendo o GIF">
 
   <a href="https://www.linkedin.com/in/leandro-felix-felicio/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
