@@ -11,7 +11,7 @@
     <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Microsoft_Office_Outlook_%282018%E2%80%932024%29.svg/960px-Microsoft_Office_Outlook_%282018%E2%80%932024%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="Email" width="30px" />
   </a>
   <a href="leandroffbr.github.io">
-    <img src="portifolio.png" alt="Email" width="60px" />
+    <img src="portifolio.png" alt="Email" width="100px" />
   </a>
   
 </div>
