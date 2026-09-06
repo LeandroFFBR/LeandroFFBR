@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, Seja bem vindo! 👋</h1>
+  <h1>Olá. Seja bem vindo! 👋</h1>
   
   <p><b>MEU NOME É</b></p>
   <img src="ezgif.com-crop.gif" alt="Texto alternativo descrevendo o GIF">
