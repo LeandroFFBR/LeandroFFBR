@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Leandro Felix</h1> ![hand](https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif)
+<h1 align="center">Olá, eu sou o Leandro Felix</h1> ![hand]("https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif")
 <h3 align="center">Estudante de Engenharia de Software & Desenvolvedor Backend</h3>
 
 <p align="center">
