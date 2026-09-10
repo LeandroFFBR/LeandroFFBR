@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Leandro Felix <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif" width="35" alt="Waving Hand"/></h1>
+<h1 align="center">Olá, eu sou o Leandro Felix <img src="https://raw.githubusercontent.com/pedronauck/pedronauck/master/assets/hand.gif" width="35" alt="Waving Hand"/></h1>
 <h3 align="center">Estudante de Engenharia de Software & Desenvolvedor Backend</h3>
 
 <p align="center">
