@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Leandro Felix</h1> ![hand]("https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif")
+<h1 align="center">Olá, eu sou o Leandro Felix <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif" width="35" alt="Waving Hand"/></h1>
 <h3 align="center">Estudante de Engenharia de Software & Desenvolvedor Backend</h3>
 
 <p align="center">
@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
