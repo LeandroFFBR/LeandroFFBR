@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Leandro Felix <img src="https://raw.githubusercontent.com/LeandroFFBR/LeandroFFBR/main/hand.gif" style="width: 35px; height: 35px; vertical-align: middle;" alt="Waving Hand"/></h1>
+<h1 align="center">Olá, eu sou o Leandro Felix <img src="https://raw.githubusercontent.com/LeandroFFBR/LeandroFFBR/main/hand.gif" width="32" height="32" alt="Waving Hand"/></h1>
 <h3 align="center">Estudante de Engenharia de Software & Desenvolvedor Backend</h3>
 
 <p align="center">
