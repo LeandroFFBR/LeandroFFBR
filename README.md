@@ -1,8 +1,9 @@
 Hey, I'm Leandro 👋!
 
-Estudante de Engenharia de Software na Faculdade Estácio e entusiasta de tecnologia, expandindo continuamente as minhas competências práticas através de bootcamps na plataforma DIO.me.
+Estudante de Engenharia de Software na Faculdade Estácio de Sá SP e entusiasta de tecnologia, expandindo continuamente as minhas competências práticas através de bootcamps na plataforma DIO.me.
 
-Trabalho principalmente com **Python** e **C# .NET**. Também lido com análise de dados, automação e ferramentas como Pandas, Excel e Power BI. Possuo **inglês avançado (nível B2)**, com facilidade para leitura técnica, escrita e comunicação orientada para o mercado global.
+Trabalho principalmente com **Python** e **C# .NET**. Também lido com análise de dados, automação e ferramentas como Pandas, Excel e Power BI. Possuo **inglês avançado (nível B2)**, tenho facilidade para leitura técnica, escrita e comunicação orientada para o mercado global.
+Estou em busca de uma oportunidade.
 
 ### Conecte-se comigo
 <p align="left">
