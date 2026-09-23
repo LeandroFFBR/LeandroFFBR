@@ -7,5 +7,5 @@ Python e C# .NET são as minhas principais linguagens. Também lido com análise
 ### Conecte-se comigo
 <p align="left">
   <a href="https://www.linkedin.com/in/leandro-felix-felicio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="leandrofelixf@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" alt="Gmail Badge"/></a>
+  <a href="mailto:leandrofelixf@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" alt="Gmail Badge"/></a>
 </p>
